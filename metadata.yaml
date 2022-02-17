@@ -15,5 +15,5 @@
 homepage: "https://www.visable.com"
 documentation: "https://www.visable.com"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: cb7a7f594d6880f06769b98714157e8c8e9fde10
     changeNotes: Initial Version
