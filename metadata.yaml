@@ -15,5 +15,9 @@
 homepage: "https://www.visable.com"
 documentation: "https://www.visable.com"
 versions:
+  # Latest Version
+  - sha: 663082006dc3196d76427a170e6c8c07c0823a17
+    changeNotes: Reworked functionality to be compatible with new GTM updates.
+  # Older Versions
   - sha: cb7a7f594d6880f06769b98714157e8c8e9fde10
     changeNotes: Initial Version
